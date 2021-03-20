@@ -1,0 +1,5 @@
+I've very limited space on my desk. A bench power supply is a heavy bulky equipment, but absolutelly necessary for electronics works.
+I'm using a desktop PC and not a notebook on my desk. There are many DIY bench PSU design exists, but working with the mains voltage always dangerous. We seen some designs building Bench PSU from ATX power supplies. These in the most cases not flexible enough, and still occupy some space.
+Most of the desktop PCs has empty drive bays.
+The idea is the following:
+Building a digitally controlled isolated variable two channel supply, what can fit into a drive bay, uses the 12V (and the 5V) from the PC internal connectors, Connected internally to the PC USB, and controlled from a desktop app.

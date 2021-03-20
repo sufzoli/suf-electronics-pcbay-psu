@@ -1,0 +1,1 @@
+"./low_level_init.obj" "./main.obj" "../lnk_msp430i2041.cmd" -llibc.a 
